@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="claude_animation.gif" alt="Claude Job Search Assistant" width="200">
+        <img src="claude_animation.gif" alt="Claude Job Search Assistant" width="200">
 </p>
 
 # AI Job Search
@@ -8,7 +8,8 @@ An AI-powered job application framework built on [Claude Code](https://claude.co
 
 <p align="center">
   <a href="https://ko-fi.com/madslorentzen">
-    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" alt="Buy me a coffee at ko-fi.com" height="40">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" alt="Buy me a coffee at ko-fi
+  .com" height="40">
   </a>
 </p>
 
